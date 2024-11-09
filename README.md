@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on myself.<br>👯 I’m looking to collaborate on real life projects.<br>🤝 I’m looking for help with innovative solutions.<br>🌱 I’m currently learning backend.
+🔭 I’m currently working on myself.<br>👯 I’m looking to collaborate on real life projects.<br>🤝 I’m looking for help with innovative solutions.<br>🌱 I’m currently learning backend and machine learning.
 
 
 ## 🌐 Socials:
